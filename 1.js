@@ -11,6 +11,9 @@ console.log(b)
 var c = "Vasudha"
 console.log(c)
 
+// let and const are blocked scoped
+// var is global scoped
+
 // function ==> to avoid code repeatition
 
 // calculator
